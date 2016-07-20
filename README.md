@@ -1,4 +1,5 @@
-# ASTErIsM : python AStronomical Tools for clustering-based dEtectIon and Morphometry
+# ASTErIsM  
+## python AStronomical Tools for clustering-based dEtectIon and Morphometry
 
 
 **The code will be available as soon as the documentation will be finished. In the meanwhile, for any request and software avaliability, please contatc** :
