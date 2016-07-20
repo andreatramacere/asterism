@@ -1,11 +1,11 @@
 # asterism
 ASTErIsM: python AStronomical Tools for clustering-based dEtectIon and Morphometry
 
-The code will be available as soon as the documentation will be finished. In the meanwhile, for any request and software avaliability, please contatc:
+**The code will be available as soon as the documentation will be finished. In the meanwhile, for any request and software avaliability, please contatc** :
 
-andrea.tramacere _at_ gmail.com
+andrea.tramacere  at gmail.com
 
-andrea.tramacere _at_ unige.ch
+andrea.tramacere  at unige.ch 
 
 
 
